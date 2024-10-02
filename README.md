@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CitharaSheik
-- 👀 I’m interested in data management
-- 🌱 I’m currently learning Data science and ML
+- 👀 I’m interested in data management.
+- 🌱 I’m currently interested in Data Engineering and ANalysing.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me citharasheik@gmail.com
 - 😄 Pronouns: Logical, optimistic
